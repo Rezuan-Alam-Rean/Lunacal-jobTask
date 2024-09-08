@@ -6,9 +6,14 @@ const Home = () => {
               
             </div>
             <div className="w-1/2 bg-red-300">
-                <div>
+                <div className="flex">
+                    <div className="mr-4  ">
+                        <p>?</p>
+                        <p>mm</p>
+                    </div>
                     <div>
-                        <p>About Me</p>
+                    <div>
+                        <p >About Me</p>
                         <p>Experiences</p>
                         <p>Recommended</p>
                     </div>
@@ -17,6 +22,8 @@ const Home = () => {
 
 I was born and raised in Albany, NY& have been living in Santa Carla for the past 10 years my wife Tiffany and my 4 year old twin daughters- Emma and Ella. Both of them are just starting school, so my calender is usually blocked between 9-10 AM. This is a...</p>
                     </div>
+                    </div>
+                    
                 </div>
                 <div>
                     <p>widget2</p>
